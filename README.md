@@ -198,12 +198,8 @@ D:\Real_Life_Problems\Game_Zone_Analytics
 │   └── GZA1.pbix
 │
 ├── Screenshots
-│   ├── 1_Executive_Overview.png
-│   ├── 2_Genre_Performance.png
-│   ├── 3_Platform_Performance.png
-│   ├── 4_Regional_Performance.png
-│   ├── 5_Time_Based_Performance.png
-│   └── 6_Cross_Analysis_Performance.png
+│   ├── Dashboard_Live_Demo.png
+│   
 │
 └── requirements.txt
 ```
