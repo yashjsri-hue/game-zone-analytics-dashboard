@@ -1,0 +1,5 @@
+# Game Zone Analytics
+
+# Power BI-based Data Analytics Project
+
+# No Python dependencies required
